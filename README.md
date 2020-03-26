@@ -1,1 +1,1 @@
-# spring-boot-example-Openshift
+# spring-boot-example-heroku
